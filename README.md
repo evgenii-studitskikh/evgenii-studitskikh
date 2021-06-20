@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Full Stack developer, living mentally online 24/7 and physically on a tropical island.
+
+**My routine:** 
+- 🥷🏻 Building client applications architecture and design patterns (React, Angular);
+- 🦠 BD architecture design (MySQL), RESTful API implementation (PHP Phalcon framework), Node.js server, Redis, HLS, Socket.io, RabbitMQ;
+- 🥲 Experience with Solidity, NFTs, Web3, ERC-20, ERC-721, and other Dapps technologies;
+- 👭🧑‍🤝‍🧑👬👫 Cooperating with designers, project managers, backend developers, and frontend developers;
+
 <!--
 **likezninjaz/likezninjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
