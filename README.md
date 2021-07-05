@@ -5,7 +5,7 @@ I'm a Software Developer, living mentally online 24/7 and physically on a tropic
 **My routine:** 
 - 🥷🏻 Building client applications architecture and design patterns (React, Angular);
 - 🦠 BD architecture design (MySQL), RESTful API implementation (PHP Phalcon framework), Node.js server, Redis, HLS, Socket.io, RabbitMQ;
-- 🥲 Experience with Solidity, NFTs, Web3, ERC-20, ERC-721, and other Dapps technologies;
+- 🥲 Experience with Solidity, NFTs, Web3, ERC-20, ERC-721, HardHat, and other Dapps technologies;
 - 👭🧑‍🤝‍🧑👬👫 Cooperation with teammates
 
 <!--
