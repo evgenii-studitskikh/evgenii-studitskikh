@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer, living mentally online 24/7 and physically on a tropical island.
+I'm a Software Developer, mostly working with web 3.0
 
 **My routine:** 
 - 🥷🏻 Building client applications architecture and design patterns (React, Angular);
