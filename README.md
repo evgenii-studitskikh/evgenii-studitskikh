@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
 <img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/likezninjaz/badges/large">
