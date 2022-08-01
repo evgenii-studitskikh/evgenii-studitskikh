@@ -3,9 +3,9 @@
 I'm a Software Developer, mostly working with Web 3.0
 
 **My routine:** 
-- 🥷🏻 Building client applications architecture and design patterns (React, Angular);
-- 🦠 BD architecture design (MySQL), RESTful API implementation (PHP Phalcon framework), Node.js server, Redis, HLS, Socket.io, RabbitMQ;
-- 🤔 Solidity Smart Contracts, Web3, ERCs, HardHat, Truffle, and other Dapps technologies;
+- 🥷🏻 Building client applications architecture and design patterns (React, Angular, Vue);
+- 🦠 BD architecture design (SQL, Mongo), RESTful/GraphQL API implementation, Node.js, Nest.js, Redis, HLS, Socket.io, RabbitMQ, and other BE libs and technologies;
+- 🤔 Solidity Smart Contracts, Web3, Ethers, ERCs, HardHat, Truffle, and other Dapps technologies;
 - 👭🧑‍🤝‍🧑👬👫 Cooperation with teammates
 
 <!--
