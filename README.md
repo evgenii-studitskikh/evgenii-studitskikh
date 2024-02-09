@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer, mostly working with Web 3.0
+With over 7 years of experience in web development, mobile app creation, and web application design, I bring a wealth of expertise in key technologies that drive IT innovation. My proficiency spans modern JavaScript (ES6+), with a focus on React.js, Next.js, Angular, and related technologies.
 
 **My routine** 
 - 🥷🏻 Design patterns and architectural principles for developing client applications using React, Angular, and Vue;
