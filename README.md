@@ -6,7 +6,7 @@ With over 7 years of experience in web development, mobile app creation, and web
 - 🥷🏻 Design patterns and architectural principles for developing client applications using React, Angular, and Vue;
 - 🦠 Designing and architecting databases using SQL and MongoDB, implementing RESTful or GraphQL APIs, and utilizing Node.js, Nest.js, Redis, HLS, Socket.io, RabbitMQ, and other relevant back-end libraries and technologies;
 - 🤔 Solidity Smart Contracts, Web3, Ethers, ERCs, HardHat, Truffle, and other relevant technologies for developing decentralized applications (Dapps);
-- 👭🧑‍🤝‍🧑👬👫 Collaboration with team members.
+- 👭🧑‍🤝‍🧑👬👫 Collaboration with team mates.
 
 **Languages and Tools** 
 
